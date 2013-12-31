@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Delete" android:showAsAction="always" android:id="@+id/menu_delete" android:icon="@android:drawable/ic_menu_delete" />
+    <item android:title="One item selected action!" android:showAsAction="never" android:id="@+id/one_item_action"/>
+    <item android:title="Select all" android:showAsAction="never" android:id="@+id/menu_select_all" />
+</menu>
